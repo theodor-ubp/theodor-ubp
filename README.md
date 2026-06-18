@@ -10,7 +10,7 @@ I run [unboundplanet.com](https://unboundplanet.com) - a personal project space 
 - [UP Sysdash](https://github.com/theodor-ubp/sysdash) - native SwiftUI menu bar monitor for Apple Silicon
 - [UP Audio Visualizer](https://github.com/theodor-ubp/py-audio-visualizer) - cross-platform audio -> waveform/spectrogram tool
 
-If you'd like to support me, please check this link:<br>
+If you'd like to support me, please check this link<br>
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/tehodor9449790)
 
 Outside of code: photography, 3D rendering, video editing, hardware, and music.
