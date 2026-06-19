@@ -1,6 +1,6 @@
 # hey, I'm Theodor
 
-Digital Content Specialist by day, builder of small useful things by night.
+Digital Content Manager by day, builder of small useful things by night.
 
 I run [unboundplanet.com](https://unboundplanet.com) - a personal project space with tools, apps, and experiments across Nova, Chroma, and Terra.
 
