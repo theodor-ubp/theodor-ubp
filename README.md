@@ -1,4 +1,4 @@
-# hey, I'm Theodor
+# hey, I'm Theo
 
 Digital Content Manager by day, builder of small useful things by night.
 
