@@ -9,6 +9,7 @@ I run [unboundplanet.com](https://unboundplanet.com) - a personal project space 
 **Current projects:**
 - [UP Sysdash](https://github.com/theodor-ubp/sysdash) - native SwiftUI menu bar monitor for Apple Silicon
 - [UP Audio Visualizer](https://github.com/theodor-ubp/py-audio-visualizer) - cross-platform audio -> waveform/spectrogram tool
+  
 Coming soon:
 - Unboundfile - Treesize Free - superfast file explorer focused on size and cleaning - but for Mac! - SwiftUI
 - RoYacht - 3D European Yahtzee - 100% Swift RealityKit
