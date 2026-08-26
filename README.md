@@ -8,6 +8,7 @@ I run [unboundplanet.com](https://unboundplanet.com) - a personal project space 
 
 **Current projects:**
 - [UP Sysdash](https://github.com/theodor-ubp/sysdash) - native SwiftUI menu bar monitor for Apple Silicon
+- [Refresh Unbound](https://github.com/theodor-ubp/refresh-unbound) - bring back Refresh in the new Windows 11 context menu!
 - [UP Audio Visualizer](https://github.com/theodor-ubp/py-audio-visualizer) - cross-platform audio -> waveform/spectrogram tool
   
 Coming soon:
