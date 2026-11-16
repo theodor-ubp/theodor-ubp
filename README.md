@@ -10,11 +10,11 @@ I run [unboundplanet.com](https://unboundplanet.com) - a personal project space 
 - [UP Sysdash](https://github.com/theodor-ubp/sysdash) - native SwiftUI menu bar monitor for Apple Silicon
 - [Refresh Unbound](https://github.com/theodor-ubp/refresh-unbound) - bring back Refresh in the new Windows 11 context menu!
 - [UP Audio Visualizer](https://github.com/theodor-ubp/py-audio-visualizer) - cross-platform audio -> waveform/spectrogram tool
+- [Unboundfile](https://github.com/theodor-ubp/unboundfile) - Treesize Free - superfast file explorer focused on size and cleaning - but for Mac! - SwiftUI
   
 Coming soon:
-- Unboundfile - Treesize Free - superfast file explorer focused on size and cleaning - but for Mac! - SwiftUI
-- RoYacht - 3D European Yahtzee - 100% Swift RealityKit
-(contact me for an early preview)
+- RoYacht - 3D European Yahtzee - 100% Swift RealityKit (contact me for an early preview)
+- and more!
 
 If you'd like to support me, please check this link<br>
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/tehodor9449790)
