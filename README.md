@@ -7,7 +7,7 @@ I run [unboundplanet.com](https://unboundplanet.com) - a personal project space 
 **What I work with:** Python, Swift, C#, Arduino, shell scripting, PHP, a bit of everything depending on what the project needs.
 
 **Current projects:**
-- [Unboundfile](https://github.com/theodor-ubp/unboundfile) - Treesize Free - superfast file explorer focused on size and cleaning - but for Mac! - SwiftUI
+- [UnboundFile](https://github.com/theodor-ubp/unboundfile) - Treesize Free - superfast file explorer focused on size and cleaning - but for Mac! - SwiftUI
 - [UP Sysdash](https://github.com/theodor-ubp/sysdash) - native SwiftUI menu bar monitor for Apple Silicon
 - [UP Audio Visualizer](https://github.com/theodor-ubp/py-audio-visualizer) - cross-platform audio -> waveform/spectrogram tool
   
