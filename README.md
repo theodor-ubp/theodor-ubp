@@ -7,14 +7,16 @@ I run [unboundplanet.com](https://unboundplanet.com) - a personal project space 
 **What I work with:** Python, Swift, C#, Arduino, shell scripting, PHP, a bit of everything depending on what the project needs.
 
 **Current projects:**
-- [UP Sysdash](https://github.com/theodor-ubp/sysdash) - native SwiftUI menu bar monitor for Apple Silicon
-- [Refresh Unbound](https://github.com/theodor-ubp/refresh-unbound) - bring back Refresh in the new Windows 11 context menu!
-- [UP Audio Visualizer](https://github.com/theodor-ubp/py-audio-visualizer) - cross-platform audio -> waveform/spectrogram tool
 - [Unboundfile](https://github.com/theodor-ubp/unboundfile) - Treesize Free - superfast file explorer focused on size and cleaning - but for Mac! - SwiftUI
+- [UP Sysdash](https://github.com/theodor-ubp/sysdash) - native SwiftUI menu bar monitor for Apple Silicon
+- [UP Audio Visualizer](https://github.com/theodor-ubp/py-audio-visualizer) - cross-platform audio -> waveform/spectrogram tool
   
 Coming soon:
 - RoYacht - 3D European Yahtzee - 100% Swift RealityKit (contact me for an early preview)
 - and more!
+
+Legacy:
+- [Refresh Unbound](https://github.com/theodor-ubp/refresh-unbound) - bring back Refresh in the new Windows 11 context menu!
 
 If you'd like to support me, please check this link<br>
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/tehodor9449790)
